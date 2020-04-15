@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+header, section, nav, footer, aside, article, hgroup {
+    display: block;
+}
+body {
+    text-align: center;
+    background:  #ffffff;
+}
+.agrupar {
+    width: auto;
+    background: 1px splid black;
+    margin: 15px auto;
+    border: 1px solid #999999
+}
+.agrupar p {
+    text-align: left;
+}
+.cabecera {
+    background: #9e7676;
+    border: 1px solid #999999;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+}
+.cabecera h1 {
+    text-align: center;
+    font-family: Arial;
+}
+.menu {
+    background:  #574242;
+    padding: 5px 10px;
+    color: rgb(0, 0, 0);
+}
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+    font-family: arial;
+}
+.seccion {
+    margin: 20px;
+    float: center;
+}
+article {
+   background-color:  #ffffff; 
+   color: rgb(0, 0, 0);
+   border: 1px solid gray;
+   padding: 20px;
+   margin-bottom: 20px;
+}
+article h1 {
+    font-family: sans-serif;
+}
+p {
+    font-family: Arial;
+}
+
+time {
+    color: gray;
+}
+.columna {
+    width: 30%;
+    margin: 20px;
+    float: left;
+}
+.columna blockquote {
+    border: 1px solid black;
+    background: rgb(203, 204, 163);
+    padding: 40px; 
+    margin-bottom: 15px;
+}
+.pie {
+    clear: both;
+    padding: 20px;
+    background: #00162e;
+    color: whitesmoke;
+}
+img {
+    width: 300px; height: 300px;
+    display: block;
+    margin: 20px auto;
+
+}

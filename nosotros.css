@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.agrupar {
+    width: auto;
+    background: 1px splid black;
+    margin: 15px auto;
+    border: 1px solid #999999
+}
+.menu {
+    background: rosybrown;
+    padding: 5px 15px;
+    text-align: center;
+}
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+}
+.titulo {
+    background: sandybrown;
+    text-align: center;
+    font-size: 40px;
+}
+.info {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
